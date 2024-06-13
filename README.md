@@ -12,7 +12,7 @@
 - phần mềm nạp code (download file mã máy xuống MCU)
     + cần thiết bị: ST-link (hoặc có thể sử dụng J-Link)
     + phần mềm nạp: [link download](https://www.st.com/en/development-tools/stm32cubeprog.html)
-## 1.2. option 2:
+### 1.2. option 2:
 - Sử dụng IDE (integrated development environment): [link download](https://www.st.com/en/development-tools/stm32cubeide.html)
 
 ## 2. Hardware
